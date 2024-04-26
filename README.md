@@ -20,4 +20,4 @@ Illustrate the process of building an open-source agricultural data exchange pla
 - USDA Open Data
 - Google Colab Documentation
 
-Feel free to reach out to us with any questions or feedback. Let's empower the agricultural community through education and collaboration!
+Contact: tnguyen30@scu.edu
