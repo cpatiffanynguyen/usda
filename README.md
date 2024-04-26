@@ -1,7 +1,7 @@
-# Farm Education Hub: Leveraging USDA Open Data with Google Colab
+# Demo: Open Agricultural Data Platform
 
 ## Project Overview
-Welcome to the Farm Education Hub, an open-source initiative powered by Google Colab and USDA open data. Our goal is to create a centralized platform for farm publications from the Extension Foundation, providing valuable resources for farmers, educators, and researchers.
+Illustrate the process of building an open-source agricultural data exchange platform specifically tailored for fact sheets and publications.
 
 ## Objectives
 1. Aggregated Farm Publications: Curate and organize farm publications covering various agricultural topics.
