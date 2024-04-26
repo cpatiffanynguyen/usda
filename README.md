@@ -1,6 +1,6 @@
 # Demo: Open Agricultural Data Platform
 
-## Project Overview
+## Repo Overview
 Illustrate the process of building an open-source agricultural data exchange platform specifically tailored for fact sheets and publications.
 
 ## Objectives
